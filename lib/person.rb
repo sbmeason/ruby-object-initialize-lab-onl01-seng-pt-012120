@@ -11,3 +11,4 @@ def name
   @name
 end
 
+beyonce = 
