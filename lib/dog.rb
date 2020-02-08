@@ -12,3 +12,4 @@ def name
   @name
 end
 
+fido = Dog.new("Fido", "Pug")
